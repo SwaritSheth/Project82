@@ -1,0 +1,33 @@
+body_backgorund {
+    background-image: url("https://www.google.com/search?q=background+with+pencil&rlz=1C1PNBB_enIN936IN936&sxsrf=AOaemvIPEIPCL-pnkrKtzVA5lSO_UvkPTQ:1638615341988&tbm=isch&source=iu&ictx=1&fir=SGQ_76UxXb6OBM%252CHbc0pe5GU2WVMM%252C_%253BSODLlpqNgRuZ4M%252CKNYvKylUx6LoCM%252C_%253B6-GTDGNjXXhH9M%252CudoOAwYzL02fpM%252C_%253ByXH-qhs8d3VakM%252C5pC9L_UnQmbt_M%252C_%253BcQej7DgKk1N4sM%252CH0lvf6G8-IkoAM%252C_%253BfrAc_3LzJuk3VM%252CF4o6HEf7Y_sIlM%252C_%253B0hDKvkY9Gl5FzM%252CudoOAwYzL02fpM%252C_%253BbMEYoRGvNktShM%252COqRBfcf9gmc_QM%252C_%253BRZYwHpuJ5-8I7M%252Cv906vc68hWPPvM%252C_%253BmbveYlJ5J8ozaM%252C5pC9L_UnQmbt_M%252C_%253Bs_GvQ9AKg41ONM%252CD-cNJKua67JD6M%252C_%253BEQk2YgvPvNORdM%252CXXtVIM4K7xsoSM%252C_%253BaZbgSTk69Y1EaM%252CRseh0yTK1_kVJM%252C_&vet=1&usg=AI4_-kRFhFbjzI870p8cbMfl3f2rhHZ0wA&sa=X&ved=2ahUKEwi6t4fr_cn0AhW3SWwGHZE4AjEQ9QF6BAgHEAE#imgrc=mbveYlJ5J8ozaM");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 20px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
